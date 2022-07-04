@@ -1,7 +1,14 @@
+import TypeApp from "./typeApp";
+
+
 function App() {
+
+
+
   return (
-    <h1>Hello from App</h1>
+  <TypeApp></TypeApp>
   );
+
 }
 
 export default App;
