@@ -3,6 +3,7 @@
 const Ato = ({ curr, word, index,arr }) => {
 
 
+    
 
     return (
         <>
